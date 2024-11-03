@@ -4,7 +4,7 @@ This project is an enhanced version of the [Binary Coded Decimal 7 Segment Displ
 
 ## Live Demo
 
-You can view a live version of this project here: [Binary to Decimal Simulator](https://mohammedusmanegani.github.io/Binary-to-Decimal-Simulator/)
+You can view a live version of this project here: [Binary to Decimal Simulator](https://binary-to-decimal-simulator.web.app/)
 
 ## About the Project
 
